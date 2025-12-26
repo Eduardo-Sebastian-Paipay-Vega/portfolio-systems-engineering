@@ -9,13 +9,8 @@ Este repositorio reúne mis proyectos académicos y personales enfocados en **de
 - Procesos (BPMN, mejora y análisis)
 - Trabajo en equipo y aprendizaje continuo
 
-## Proyectos destacados
-> (Iré agregando enlaces a mis mejores repositorios con una breve descripción.)
-
-- **Proyecto 1:** (enlace) – breve descripción  
-- **Proyecto 2:** (enlace) – breve descripción  
-- **Proyecto 3:** (enlace) – breve descripción  
+ 
 
 ## Contacto
-- **LinkedIn:** (pon tu enlace)
+- **LinkedIn:** https://www.linkedin.com/in/eduardo-sebastian-paipay-vega-1952533a1/
 - **Correo:** paipayvegabastian@gmail.com
