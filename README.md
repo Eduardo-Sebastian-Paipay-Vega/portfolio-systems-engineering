@@ -11,6 +11,10 @@ Este repositorio reúne mis proyectos académicos y personales enfocados en **de
 
  
 
+## Base para LinkedIn
+
+- [Proyectos, fuentes y criterios para el perfil y publicaciones](LINKEDIN_BASE_DE_CONOCIMIENTO.md)
+
 ## Contacto
 - **LinkedIn:** https://www.linkedin.com/in/eduardo-sebastian-paipay-vega-1952533a1/
 - **Correo:** paipayvegabastian@gmail.com
